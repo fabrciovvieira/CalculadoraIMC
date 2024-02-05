@@ -4,7 +4,7 @@ Este é um projeto de calculadora de IMC desenvolvido utilizando HTML, CSS e Jav
 
 ## Demonstração
 
-![Alt text](preview-1.png)
+![](preview-1.png)
 ![Alt text](preview-2.png)
 
 ## Tecnologias Utilizadas
